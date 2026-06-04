@@ -7,10 +7,10 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "lodash": "4.17.4",
-    "express": "4.16.0",
-    "minimist": "0.0.8",
-    "axios": "0.18.0"
+    "lodash": "^4.17.21",
+    "express": "^4.19.2",
+    "minimist": "^1.2.8",
+    "axios": "^1.7.2"
   },
   "author": "",
   "license": "ISC"
